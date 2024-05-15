@@ -11,7 +11,7 @@ You can view the primary analysis in the Jupyter Notebook. Click the link below 
 
 Here’s a glimpse of what you’ll find in the Jupyter notebook:
 
-![Plot 1](output1.png)
+![Plot 1](outout1.png)
 ![Plot 2](output2.png)
 ![Plot 3](output3.png)
 
