@@ -7,6 +7,15 @@ You can view the primary analysis in the Jupyter Notebook. Click the link below 
 
 [Open the 0to100.ipynb notebook](0to100.ipynb)
 
+## Sneak Peek
+
+Here’s a glimpse of what you’ll find in the Jupyter notebook:
+
+![Plot 1](output1.png)
+![Plot 2](output2.png)
+![Plot 3](output3.png)
+
+
 ## Running the Notebook Locally
 
 To run the notebook on your local machine:
@@ -16,3 +25,8 @@ To run the notebook on your local machine:
 3. Navigate to the repository directory and launch Jupyter Notebook.
 4. Open the `0to100.ipynb` file from the Jupyter interface.
 
+## Contact
+
+Stefano Lavoro – stefano_lavoro@outlook.com
+
+Project Link: [https://github.com/StefanoLavoro/0to100](https://github.com/StefanoLavoro/0to100)
